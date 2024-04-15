@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+/* Define your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="date"] {
+    width: 200px;
+    margin-bottom: 10px;
+}
